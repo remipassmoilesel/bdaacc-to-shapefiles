@@ -1,15 +1,15 @@
-# Base nationale des accidents corporels
+# Script d'aide à l'exploitation de la base nationale des accidents corporels
 
 Ce projet contient un script permettant d'exploiter dans un système d'informations géographiques la 
 base nationale des accidents corporels. 
 
-**Attention**: Ce script a été développé en quelques heures et il n'a pas fait l'objet de procédure de qualité.
+**Attention**: Ce script a été développé en quelques heures et n'a pas fait l'objet de contrôles qualité.
 De plus, il n'a été testé que sur Ubuntu 18.04.
 
 
 ## Ressources
  
-- Téléchargement: https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/
+- Téléchargement des données: https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/
 - Description des données: https://static.data.gouv.fr/resources/base-de-donnees-accidents-corporels-de-la-circulation/20191014-112328/description-des-bases-de-donnees-onisr-annees-2005-a-2018.pdf
 
 
@@ -24,8 +24,7 @@ Sur Ubuntu:
 
 ## Utilisation
 
-Télécharger tous les documents nommées `caracteristiques_*` à partir du site data.gouv et les enregistrer dans le dossier
-csv-files.
+Télécharger tous les documents nommées `caracteristiques_*` à partir du site data.gouv et les enregistrer dans le dossiercsv-files.
 
 Corriger les positions et transformer les fichiers CSV en shapefiles:
 
