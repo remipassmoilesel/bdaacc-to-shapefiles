@@ -1,7 +1,7 @@
-# Script d'aide à l'exploitation de la base nationale des accidents corporels
+# Script d'aide à l'exploitation des bases de données annuelles des accidents corporels de la circulation routière
 
-Ce projet contient un script permettant d'exploiter dans un système d'informations géographiques la 
-base nationale des accidents corporels. 
+Ce projet contient un script permettant d'exploiter dans un système d'informations géographiques les bases de données
+ annuelles des accidents corporels de la circulation routière
 
 **Attention**: Ce script a été développé en quelques heures et n'a pas fait l'objet de contrôles qualité.
 De plus, il n'a été testé que sur Ubuntu 18.04.
