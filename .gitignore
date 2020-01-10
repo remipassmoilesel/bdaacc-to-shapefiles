@@ -1,0 +1,6 @@
+csv-files/*
+!csv-files/.gitkeep
+csv-files-corrected/*
+!csv-files-corrected/.gitkeep
+shapefiles/*
+!shapefiles/.gitkeep
